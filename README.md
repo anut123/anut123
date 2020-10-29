@@ -4,7 +4,7 @@
 
 
 
- 
+<img src="https://komarev.com/ghpvc/?username=anut123" alt="anut123" /> 
 <img src="https://github-readme-stats.vercel.app/api?username=anut123&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/> <br>
  
 
