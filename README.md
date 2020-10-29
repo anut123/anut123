@@ -1,7 +1,7 @@
 
 ## Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 
 
-![Alt Text](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)
+![Alt Text](https://images.app.goo.gl/SFv2nxbq3uJWaYL2A.gif)
 
 
  
