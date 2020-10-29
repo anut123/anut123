@@ -1,7 +1,9 @@
 
 ## Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 
 
-<p align="center"><img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.skaip.org%2Fwomandeveloper-emoticon&psig=AOvVaw2n44lBmfdE8XTrmUW8C9Ag&ust=1604047882820000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjGuLC22ewCFQAAAAAdAAAAABAQ" alt="Women writing code emotion GIF" width="500" height="400">
+<p  align="center"><img src="https://images.app.goo.gl/SFv2nxbq3uJWaYL2A" alt="Coder GIF" width="500" height="400">
+
+
  
 <img src="https://github-readme-stats.vercel.app/api?username=anut123&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/> <br>
  
