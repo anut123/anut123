@@ -18,6 +18,6 @@ src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
 <br />
 
 
-## Connect with me 
+## Connect with me: 
 
 [<img align="left" alt="Anusha Thatikonda_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/anusha-thatikonda-9a4419144)
