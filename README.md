@@ -1,5 +1,5 @@
 # Anusha-Thatikonda
-### Hi there, I'm Anusha 👋
+## Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=anut123&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/> <br>
