@@ -1,7 +1,7 @@
 
 ## Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 
 
-![asf](https://images.app.goo.gl/SFv2nxbq3uJWaYL2A.gif)
+
 
 
  
