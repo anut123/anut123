@@ -20,5 +20,5 @@ src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
 ## Connect with me: 
 
 
-[<img align="left" alt="Anusha Thatikonda_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg">](https://www.linkedin.com/in/anusha-thatikonda)
+[<img align="left" alt="Anusha Thatikonda_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg">](www.linkedin.com/in/anusha-thatikonda)
 
