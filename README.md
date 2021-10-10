@@ -19,6 +19,10 @@ src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
  
 ## Connect with me: 
 
+[<img align="left" alt="Anusha Thatikonda | LinkedIn" width="22px" src="https://raw.githubusercontent.com/anushathatikonda/anushathatikonda/master/linkedin.svg" />][linkedin] 
+
 [linkedin]: https://www.linkedin.com/in/anusha-thatikonda
+
+
 
 
