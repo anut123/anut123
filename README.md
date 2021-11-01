@@ -26,6 +26,6 @@ src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
 
 [Linkedln](https://www.linkedin.com/in/anusha-thatikonda/)
 
-[<img align="left" alt="Anusha Thatikonda| LinkedIn" width="22px" src="https://github.com/anut123/anut123/blob/master/assets/linkedin.svg"/>][linkedin] 
+[<img align="left" alt="anut123 | LinkedIn" width="22px" src="https://github.com/anut123/anut123/blob/master/assets/linkedin.svg"/>][linkedin] 
 
 [linkedin]: https://www.linkedin.com/in/anusha-thatikonda/
