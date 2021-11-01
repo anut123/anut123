@@ -20,3 +20,8 @@ src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
 ## Connect with me: 
 
 <a href="https://linkedin.com/in/anut123" target="blank"><img align="center" src="https://raw.githubusercontent.com/anut123/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anut123" height="30" width="40" /></a>
+
+[<img align="left" alt="anut123 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/anut123/anut123/master/linkedin.svg" />][linkedin] 
+
+[linkedin]: https://www.linkedin.com/in/anusha-thatikonda/
+https://www.linkedin.com/in/anusha-thatikonda/
