@@ -24,3 +24,4 @@ src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
 [<img align="left" alt="anut123 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/anut123/anut123/master/linkedin.svg" />][linkedin] 
 
 [linkedin]: https://www.linkedin.com/in/anusha-thatikonda/
+<a href="https://www.linkedin.com/in/anusha-thatikonda/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>   
