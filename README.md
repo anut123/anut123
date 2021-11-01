@@ -19,7 +19,9 @@ src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
  
 ## Connect with me: 
 
-<a href="https:///www.linkedin.com/in/anusha-thatikonda" target="_blank"><img src="https://github.com/anut123/anut123/blob/master/assets/linkedin.svg" alt="linkedin" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
+<a href=" [Linkedln](https://www.linkedin.com/in/anusha-thatikonda/)" target="_blank"><img src="https://github.com/anut123/anut123/blob/master/assets/linkedin.svg" alt="linkedin" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
+
+
 
 
 
