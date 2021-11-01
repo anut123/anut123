@@ -24,4 +24,4 @@ src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
 
  [Linkedln] [Linkedln]
 
-[Linkedln](www.linkedin.com/in/anusha-thatikonda/)
+[Linkedln](https://www.linkedin.com/in/anusha-thatikonda/)
